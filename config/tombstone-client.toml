@@ -41,7 +41,7 @@
 	text_color_death_date = 2962496
 	#Decimal value for the color of the grave text <R.I.P.> [0..16777215|default:2962496]
 	#Range: 0 ~ 16777215
-	text_color_rip = 2962496
+	text_color_rip = 2960960
 	#Decimal value for the color of the grave text <Owner Name> [0..16777215|default:5991302]
 	#Range: 0 ~ 16777215
 	text_color_owner = 5991302

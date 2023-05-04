@@ -207,7 +207,7 @@
 #Notification settings
 [notification]
 	#Last notified mod version
-	lastNotifiedVersion = "9.1.207"
+	lastNotifiedVersion = "10.2.5"
 	#Notify more than once
 	keepNotifying = true
 
